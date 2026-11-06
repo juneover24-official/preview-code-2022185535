@@ -1,7 +1,7 @@
 {
   "qq_number": "2022185535",
   "group_number": "1126264999",
-  "updated_at": "2026-11-04T10:01:23+00:00",
+  "updated_at": "2026-11-06T09:45:42+00:00",
   "skins": [
     {
       "name": "梅の小喵饼-彩底",
@@ -16,6 +16,13 @@
       "thumb": "梅_小喵饼-彩底-涵涵.bdi_py_26_light_thumb.png",
       "full": "梅_小喵饼-彩底-涵涵.bdi_py_26_light_thumb.png",
       "file_id": "50373576"
+    },
+    {
+      "name": "梅の握手兔-光波",
+      "file": "梅_握手兔-光波-小钰.bds",
+      "thumb": "梅_握手兔-光波-小钰.bds_py_26_light_thumb.png",
+      "full": "梅_握手兔-光波-小钰.bds_py_26_light_thumb.png",
+      "file_id": "50674899"
     }
   ]
 }
