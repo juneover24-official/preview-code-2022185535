@@ -1,7 +1,7 @@
 {
   "qq_number": "2022185535",
   "group_number": "1126264999",
-  "updated_at": "2026-11-12T05:35:54+00:00",
+  "updated_at": "2026-11-12T09:56:13+00:00",
   "skins": [
     {
       "name": "梅の小喵饼-彩底",
@@ -44,6 +44,13 @@
       "thumb": "梅_熊本兔-光波-小钰.bds_py_26_light_thumb.png",
       "full": "梅_熊本兔-光波-小钰.bds_py_26_light_thumb.png",
       "file_id": "51216537"
+    },
+    {
+      "name": "梅の熊本兔-光波",
+      "file": "梅_熊本兔-琪琪.bdi",
+      "thumb": "梅_熊本兔-琪琪.bdi_py_26_light_thumb.png",
+      "full": "梅_熊本兔-琪琪.bdi_py_26_light_thumb.png",
+      "file_id": "51270411"
     }
   ]
 }
