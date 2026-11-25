@@ -1,7 +1,7 @@
 {
   "qq_number": "2022185535",
   "group_number": "1126264999",
-  "updated_at": "2026-11-24T18:10:35+00:00",
+  "updated_at": "2026-11-25T16:42:00+00:00",
   "skins": [
     {
       "name": "梅の小喵饼-彩底",
@@ -58,6 +58,13 @@
       "thumb": "梅_趴趴猫小-小钰.bds_py_26_light_thumb.png",
       "full": "梅_趴趴猫小-小钰.bds_py_26_light_thumb.png",
       "file_id": "52102141"
+    },
+    {
+      "name": "梅の趴趴猫小",
+      "file": "梅_趴趴猫小-小尤.bdi",
+      "thumb": "梅_趴趴猫小-小尤.bdi_py_26_light_thumb.png",
+      "full": "梅_趴趴猫小-小尤.bdi_py_26_light_thumb.png",
+      "file_id": "51961380"
     }
   ]
 }
